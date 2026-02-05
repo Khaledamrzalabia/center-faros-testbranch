@@ -1005,3 +1005,4 @@ Test commit 1004
 Test commit 1005
 Test commit 1006
 Test commit 1007
+Test commit 1008
